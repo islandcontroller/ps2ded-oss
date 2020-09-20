@@ -1,0 +1,2 @@
+#!/bin/bash
+dsnetm -d $PS2IP && dsifilesv && dsidb -nr dr && dsedb -nr dr
