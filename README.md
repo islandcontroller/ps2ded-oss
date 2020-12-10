@@ -2,7 +2,7 @@
 
 A toolchain host for the [open-source PlayStation 2 SDK](https://github.com/ps2dev/ps2dev), using a [&#128279;Retail Debugging Startup Cart (PSX-Place)](https://www.psx-place.com/threads/retail-debugging-startup-card.14027/) for on-target debugging on retail systems.
 
-**See also:** [**ps2ded-vscode**](https://github.com/inselc/ps2ded-vscode), a VS Code Devcontainer for PS2DED
+**See also:** [**ps2ded-vscode**](https://github.com/islandcontroller/ps2ded-vscode), a VS Code Devcontainer for PS2DED
 
 <img src="scr.png"/>
 
